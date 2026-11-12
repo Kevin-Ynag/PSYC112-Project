@@ -4,7 +4,7 @@ An interactive, web-based cognitive psychology experiment developed using Python
 
 ## 📚 About the Project
 
-This project was developed for the **PSYC112**.
+This project was developed for **PSYC112** course.
 
 The experiment investigates the Stroop Effect, a psychological phenomenon in which conflicting information can interfere with cognitive processing and affect reaction time.
 
