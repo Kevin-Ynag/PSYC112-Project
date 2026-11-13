@@ -272,12 +272,12 @@ if st.session_state.finished:
     st.subheader("Submit Your Results")
 
     st.write(
-        "INPUT GOOGLE DOCS LINK HERE"
+        "https://docs.google.com/forms/d/e/1FAIpQLSeS5SqYjlZddqEslvT1Wo9GXhSsTlXDCho6-o91OrFf9g6gKQ/viewform?usp=dialog"
     )
 
     st.link_button(
         "Open Google Docs Submission",
-        "INPUT GOOGLE DOCS LINK HERE"
+        "https://docs.google.com/forms/d/e/1FAIpQLSeS5SqYjlZddqEslvT1Wo9GXhSsTlXDCho6-o91OrFf9g6gKQ/viewform?usp=dialog"
     )
 
     if st.button("Restart Experiment"):
